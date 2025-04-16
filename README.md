@@ -1,7 +1,7 @@
 
 <h1>🛠️ Chromaic Admin Panel - Administration Dashboard</h1>
 
-<p><strong>Chromaic Admin Panel</strong> is a comprehensive management dashboard built for the Chromaic e-commerce platform. It gives administrators the power to manage products categories orders users and view key analytics from a modern intuitive interface.</p>
+<p><strong>Chromaic Admin Panel</strong> is a comprehensive management dashboard built for the Chromaic e-commerce platform. It gives administrators the power to manage products categories orders users and view key analytics from a modern intuitive interface.</p> 
 
 <p align="center"><img src="https://res.cloudinary.com/dcd51y8m1/image/upload/v1744715903/Screenshot_2025-04-15_at_4.46.35_PM_ny59mo.png" alt="project-image"></p>
 
